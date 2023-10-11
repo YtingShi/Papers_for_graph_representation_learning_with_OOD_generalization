@@ -4,11 +4,11 @@ papers with out-of-distribution generalization are categorized based on machine 
 ## Methods of machine learning
 1.1Supervised learning
 
-1.DIR
+1.DIR [paper](https://arxiv.org/abs/2201.12872)  [code](https://github.com/Wuyxin/DIR-GNN)
 2.CIGA
 3.GNNSAFE
 4.BUP
 5.GDA
 6.STABLE learning on Graph
 
-###
+
