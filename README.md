@@ -41,10 +41,10 @@ papers with out-of-distribution generalization are categorized based on machine 
 1.4 Self-Supervised learning
 
 (1)GOOD-D  ([paper](https://doi.org/10.1145/3539597.3570446)  )      
-
-
-
-
+  
+   
+   
+ 
 ## OOD Detection Tasks 
 ### 2.1 Graph-Level Tasks 
 
