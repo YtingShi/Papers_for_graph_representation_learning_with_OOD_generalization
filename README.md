@@ -32,7 +32,7 @@ papers with out-of-distribution generalization are categorized based on machine 
 (5) SFP  ([paper](https://arxiv.org/abs/2212.09458) )      
 (6) GIL  ([paper](https://openreview.net/forum?id=acKK8MQe2xc) )      
 (7) LiSA  ([paper](https://arxiv.org/abs/2303.14859)  [code](https://github.com/Samyu0304/LiSA) )      
-(8) MOOD  ([paper](https://arxiv.org/abs/2206.07632)  [code](https: //github.com/SeulLee05/MOOD) )      
+(8) MOOD  ([paper](https://arxiv.org/abs/2206.07632)  [code](https://github.com/SeulLee05/MOOD) )      
 (9) MOG  ([paper](https://openreview.net/forum?id=qkTEaJ9orc1) )      
 (10) DSIL  ([paper](https://ieeexplore.ieee.org/document/10044475) )      
 (11) IS-GIB  ([paper](https://arxiv.org/abs/2306.15902)  [code](https://github.com/YangLing0818/GraphOOD) )      
@@ -56,7 +56,7 @@ papers with out-of-distribution generalization are categorized based on machine 
 (6) OOD-GNN  ([paper](https://arxiv.org/abs/2112.03806) )      
 (7) GOOD-D  ([paper](https://doi.org/10.1145/3539597.3570446)  )      
 (8) IS-GIB  ([paper](https://arxiv.org/abs/2306.15902)  [code](https://github.com/YangLing0818/GraphOOD) )      
-(9)  MOOD  ([paper](https://arxiv.org/abs/2206.07632)  [code](https: //github.com/SeulLee05/MOOD) )      
+(9)  MOOD  ([paper](https://arxiv.org/abs/2206.07632)  [code](https://github.com/SeulLee05/MOOD) )      
 (10) STABLE learning on Graph ([paper](https://arxiv.org/abs/2110.03865)   )      
 
 
