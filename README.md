@@ -1,7 +1,7 @@
 # Papers_for_graph_representation_learning_with_OOD_generalization
 papers with out-of-distribution generalization are categorized based on machine learning methods and OOD detection tasks
 
-## Methods of machine learning
+## 1 Methods of machine learning
 1.1 Supervised learning
 
 (1) DIR ( [paper](https://arxiv.org/abs/2201.12872)  [code](https://github.com/Wuyxin/DIR-GNN) )      
@@ -42,10 +42,10 @@ papers with out-of-distribution generalization are categorized based on machine 
 
 (1)GOOD-D  ([paper](https://doi.org/10.1145/3539597.3570446)  )      
   
-   
-   
- 
-## OOD Detection Tasks 
+                                                                  
+                                                                    
+                                                    
+## 2 OOD Detection Tasks 
 ### 2.1 Graph-Level Tasks 
 
 (1) CSBM  ([paper](https://arxiv.org/abs/2102.06966v1) )      
