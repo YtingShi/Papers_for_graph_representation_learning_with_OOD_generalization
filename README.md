@@ -5,7 +5,7 @@ We have summarized OOD generalization models based on graph representation learn
   
 |            Model           | Year | Architecture |                             Method                            |                                 Dataset                                 |
 |:--------------------------:|:----:|:------------:|:-------------------------------------------------------------:|:-----------------------------------------------------------------------:|
-|          CIGA              | 2022 |      GNN     |              Causal invariance, Contrast learning             |                      SPMotif、DrugOOD、ColoredMNIST                     |
+|         [CIGA](CIGA)       | 2022 |      GNN     |              Causal invariance, Contrast learning             |                      SPMotif、DrugOOD、ColoredMNIST                     |
 |        GNNsafe             | 2023 |      GNN     |                       Energy-based model                      |                          Cora、Amazon、Coauthor                         |
 |          EERM              | 2022 |      GNN     |  Autograph induction, Breadth first search, Causal invariance |     Amazon-Photo、Twitch-explicit、Facebook-100、Elliptic、OGB-Arxiv    |
 |           DIR              | 2022 |      GNN     |                       Causal invariance                       |              Spurious-Motif、MNIST-75sp、Graph-SST2、Molhiv             |
@@ -39,7 +39,7 @@ papers with out-of-distribution generalization are categorized based on machine 
     
 ## Methods of machine learning
 ### 1.1 Supervised learning
-(1)DIR:  Discovering invariant rationales for graph neural networks  
+#### (1)DIR:  Discovering invariant rationales for graph neural networks  
       YX Wu, X Wang, A Zhang, X He, TS Chuag  
 ( [paper](https://arxiv.org/abs/2201.12872)  [code](https://github.com/Wuyxin/DIR-GNN) )  
   
