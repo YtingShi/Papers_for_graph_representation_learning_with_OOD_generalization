@@ -5,12 +5,12 @@ We have summarized OOD generalization models based on graph representation learn
   
 |            Model           | Year | Architecture |                             Method                            |                                 Dataset                                 |
 |:--------------------------:|:----:|:------------:|:-------------------------------------------------------------:|:-----------------------------------------------------------------------:|
-|[CIGA](https://arxiv.org/abs/2202.05441)       | 2022 |      GNN     |              Causal invariance, Contrast learning             |                      SPMotif、DrugOOD、ColoredMNIST                     |
-|        GNNsafe             | 2023 |      GNN     |                       Energy-based model                      |                          Cora、Amazon、Coauthor                         |
+|[CIGA](https://arxiv.org/abs/2202.05441)| 2022 |      GNN     |              Causal invariance, Contrast learning             |                      SPMotif、DrugOOD、ColoredMNIST                     |
+|[GNNsafe](https://arxiv.org/abs/2302.02914)| 2023 |      GNN     |                       Energy-based model                      |                          Cora、Amazon、Coauthor                         |
 |          EERM              | 2022 |      GNN     |  Autograph induction, Breadth first search, Causal invariance |     Amazon-Photo、Twitch-explicit、Facebook-100、Elliptic、OGB-Arxiv    |
-| [DIR]((https://arxiv.org/abs/2201.12872))        | 2022 |      GNN     |                       Causal invariance                       |              Spurious-Motif、MNIST-75sp、Graph-SST2、Molhiv             |
-|           BUP              | 2022 | Bayesian GNN |                            Bayesian                           |                              Cora、Citeseer                             |
-|           GDA              | 2023 |      GNN     |                Pair learning, Causal invariance               |  CMNIST-color、Cora-word、Twitch-language、WebKB-universit、CBAS-color  |
+| [DIR](https://arxiv.org/abs/2201.12872)        | 2022 |      GNN     |                       Causal invariance                       |              Spurious-Motif、MNIST-75sp、Graph-SST2、Molhiv             |
+|           BUP(https://www.computer.org/csdl/proceedings-article/icdm/2022/509900b275/1KpCBAulk2Y)              | 2022 | Bayesian GNN |                            Bayesian                           |                              Cora、Citeseer                             |
+|           [GDA](https://doi.org/10.48550/arXiv.2306.08076)              | 2023 |      GNN     |                Pair learning, Causal invariance               |  CMNIST-color、Cora-word、Twitch-language、WebKB-universit、CBAS-color  |
 | Stable Learning on GNN     | 2021 |      GNN     |                        Domain adaptive                        |                   Citeseer 、OGB-Arxiv、Recommendation                  |
 |          DGNN              | 2022 |      GNN     |                       Causal invariance                       |                       Cora、Citeseer、Pubmed、NELL                      |
 |        StableGNN           | 2021 |      GNN     |                       Causal invariance                       | Molbace、Molbbbp、Molhiv、MUTAG、Molclintox、Moltox21、Molesol、Mollipo |
