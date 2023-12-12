@@ -5,7 +5,7 @@ We have summarized OOD generalization models based on graph representation learn
   
 |            Model           | Year | Architecture |                             Method                            |                                 Dataset                                 |
 |:--------------------------:|:----:|:------------:|:-------------------------------------------------------------:|:-----------------------------------------------------------------------:|
-|         [CIGA](CIGA)       | 2022 |      GNN     |              Causal invariance, Contrast learning             |                      SPMotif、DrugOOD、ColoredMNIST                     |
+|[CIGA](https://arxiv.org/abs/2202.05441)       | 2022 |      GNN     |              Causal invariance, Contrast learning             |                      SPMotif、DrugOOD、ColoredMNIST                     |
 |        GNNsafe             | 2023 |      GNN     |                       Energy-based model                      |                          Cora、Amazon、Coauthor                         |
 |          EERM              | 2022 |      GNN     |  Autograph induction, Breadth first search, Causal invariance |     Amazon-Photo、Twitch-explicit、Facebook-100、Elliptic、OGB-Arxiv    |
 | [DIR]((https://arxiv.org/abs/2201.12872))        | 2022 |      GNN     |                       Causal invariance                       |              Spurious-Motif、MNIST-75sp、Graph-SST2、Molhiv             |
