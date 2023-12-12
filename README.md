@@ -57,10 +57,10 @@ N Yang, K Zeng, Q Wu, X Jia, J Yan
 ([paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/547108084f0c2af39b956f8eadb75d1b-Abstract-Conference.html )  [code](https://github.com/yangnianzu0515/MoleOOD) )      
 (5)SFP: Exploring optimal substructure for out-of-distribution generalization via feature-targeted model pruning  
 Y Wang, J Guo, S Guo, W Zhang, J Zhang  
-([paper](https://arxiv.org/abs/2212.09458) )      
+([paper](https://arxiv.org/abs/2212.09458) )  
 (6)GIL: Learning invariant graph representations for out-of-distribution generalization  
 H Li, Z Zhang, X Wang, W Zhu  
-([paper](https://openreview.net/forum?id=acKK8MQe2xc) ) 
+([paper](https://openreview.net/forum?id=acKK8MQe2xc) )  
 (7)LiSA: Mind the Label Shift of Augmentation-based Graph OOD Generalization  
 J Yu, J Liang, R He  
 ([paper](https://arxiv.org/abs/2303.14859)  [code](https://github.com/Samyu0304/LiSA) )      
