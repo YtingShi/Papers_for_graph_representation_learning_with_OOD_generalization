@@ -7,29 +7,29 @@ We have summarized OOD generalization models based on graph representation learn
 |:--------------------------:|:----:|:------------:|:-------------------------------------------------------------:|:-----------------------------------------------------------------------:|
 |[CIGA](https://arxiv.org/abs/2202.05441)| 2022 |      GNN     |              Causal invariance, Contrast learning             |                      SPMotif、DrugOOD、ColoredMNIST                     |
 |[GNNsafe](https://arxiv.org/abs/2302.02914)| 2023 |      GNN     |                       Energy-based model                      |                          Cora、Amazon、Coauthor                         |
-|          EERM              | 2022 |      GNN     |  Autograph induction, Breadth first search, Causal invariance |     Amazon-Photo、Twitch-explicit、Facebook-100、Elliptic、OGB-Arxiv    |
+| [EERM](https://arxiv.org/abs/2202.02466)              | 2022 |      GNN     |  Autograph induction, Breadth first search, Causal invariance |     Amazon-Photo、Twitch-explicit、Facebook-100、Elliptic、OGB-Arxiv    |
 | [DIR](https://arxiv.org/abs/2201.12872)        | 2022 |      GNN     |                       Causal invariance                       |              Spurious-Motif、MNIST-75sp、Graph-SST2、Molhiv             |
-|           BUP(https://www.computer.org/csdl/proceedings-article/icdm/2022/509900b275/1KpCBAulk2Y)              | 2022 | Bayesian GNN |                            Bayesian                           |                              Cora、Citeseer                             |
-|           [GDA](https://doi.org/10.48550/arXiv.2306.08076)              | 2023 |      GNN     |                Pair learning, Causal invariance               |  CMNIST-color、Cora-word、Twitch-language、WebKB-universit、CBAS-color  |
-| Stable Learning on GNN     | 2021 |      GNN     |                        Domain adaptive                        |                   Citeseer 、OGB-Arxiv、Recommendation                  |
-|          DGNN              | 2022 |      GNN     |                       Causal invariance                       |                       Cora、Citeseer、Pubmed、NELL                      |
-|        StableGNN           | 2021 |      GNN     |                       Causal invariance                       | Molbace、Molbbbp、Molhiv、MUTAG、Molclintox、Moltox21、Molesol、Mollipo |
-|          CSBM              | 2021 |      GNN     |         Standard random block, Gaussian mixture model         |                          Cora、PubMed、Wiki.Net                         |
-|          GKDE              | 2020 |      GNN     |               Dirichlet distributions, Bayesian               |  Cora、Citeseer、Pubmed、Amazon Photo、Amazon Compute、Coauthor Physic  |
-|         OSSNC              | 2022 |     GCNII    |            Internal and external  dual optimization           |                    Cora、Citeseer、Pubmed、ogbn-arXiv                   |
-|         SR-GNN             | 2021 |      GNN     |                        Domain adaption                        |                  Cora、Citeseer、PubMed、ogban、Reddit                  |
-|           DSE              | 2022 |      GNN     | Conditional  ariational Grap, Auto-Encoder, Causal invariance |                        TR3、MNISTsup、Graph-SST2                        |
-|         OOD-GNN            | 2022 |      GNN     |                Random Fourier, Characteristics                |              TRIANGLES、MNIST-75SP、COLLAB、 PROTEINS、 D&D             |
-|        Graphde             | 2022 |      GNN     |                     Variational inference                     |               Spurious-Motif、MNIST-75sp 、Collab、DrugOOD              |
-|        MoleOOD             | 2022 |      GNN     |                       Invariant learning                      |                       BACE、BBBP、SIDER、HIV、OGB                       |
-|           SFP              | 2022 |      GNN     |         Model sparsity, singular, Value decomposition         |                             PLACE365、MSCOCO                            |
-|           GIL              | 2022 |      GNN     |                       Invariant learning                      |       SP-Motif、MNIST-75sp、Graph-SST2、Open Graph Benchmark (OGB)      |
-|          LiSA              | 2023 |      GNN     |           Invariant learning, Subgraph augmentation           |                  Spurious-Motif、MUTAG、D&D、MNIST-75sp                 |
-|          MOOD              | 2022 |      GCN     |             OOD-controlled Reverse-time diffusion             |                    TR3、MNIST superpixels、Graph-SST2                   |
-|           MOG              | 2021 |      GCN     |               Improved Langevin, Dynamics method              |                              ZINC250k、QM9                              |
-|          DSIL              | 2023 |      GNN     |                        Domain invariant                       |                            Drugbank、Twosides                           |
-|         IS-GIB             | 2023 |      GNN     |                     Information Bottleneck                    |   Cora、Citeseer、Twitch-explicit、Facebook100、Gossipcop、Politifact   |
-|         GOOD-D             | 2023 |      GNN     |             Hierarchical graph, Contrast learning             |                                 TU、OGB                                 |
+| [BUP](https://www.computer.org/csdl/proceedings-article/icdm/2022/509900b275/1KpCBAulk2Y)              | 2022 | Bayesian GNN |                            Bayesian                           |                              Cora、Citeseer                             |
+| [GDA](https://doi.org/10.48550/arXiv.2306.08076)              | 2023 |      GNN     |                Pair learning, Causal invariance               |  CMNIST-color、Cora-word、Twitch-language、WebKB-universit、CBAS-color  |
+| [Stable Learning on GNN](https://arxiv.org/abs/2110.03865)     | 2021 |      GNN     |                        Domain adaptive                        |                   Citeseer 、OGB-Arxiv、Recommendation                  |
+| [DGNN](https://ieeexplore.ieee.org/document/9698407)              | 2022 |      GNN     |                       Causal invariance                       |                       Cora、Citeseer、Pubmed、NELL                      |
+| [StableGNN](https://ieeexplore.ieee.org/document/10268633)           | 2021 |      GNN     |                       Causal invariance                       | Molbace、Molbbbp、Molhiv、MUTAG、Molclintox、Moltox21、Molesol、Mollipo |
+| [CSBM](https://arxiv.org/abs/2102.06966v1)              | 2021 |      GNN     |         Standard random block, Gaussian mixture model         |                          Cora、PubMed、Wiki.Net                         |
+| [GKDE](https://www.semanticscholar.org/reader/71a35aa42cd1ed6f213e58122154739dfd6340e8)              | 2020 |      GNN     |               Dirichlet distributions, Bayesian               |  Cora、Citeseer、Pubmed、Amazon Photo、Amazon Compute、Coauthor Physic  |
+| [OSSNC](https://ink.library.smu.edu.sg/sis_research/7479)              | 2022 |     GCNII    |            Internal and external  dual optimization           |                    Cora、Citeseer、Pubmed、ogbn-arXiv                   |
+| [SR-GNN](https://doi.org/10.48550/arXiv.2108.01099)             | 2021 |      GNN     |                        Domain adaption                        |                  Cora、Citeseer、PubMed、ogban、Reddit                  |
+| [DSE](https://arxiv.org/abs/2201.08802)              | 2022 |      GNN     | Conditional  ariational Grap, Auto-Encoder, Causal invariance |                        TR3、MNISTsup、Graph-SST2                        |
+| [OOD-GNN](https://arxiv.org/abs/2112.03806)            | 2022 |      GNN     |                Random Fourier, Characteristics                |              TRIANGLES、MNIST-75SP、COLLAB、 PROTEINS、 D&D             |
+| [Graphde](https://github.com/Emiyalzn/GraphDE)             | 2022 |      GNN     |                     Variational inference                     |               Spurious-Motif、MNIST-75sp 、Collab、DrugOOD              |
+| [MoleOOD](https://proceedings.neurips.cc/paper_files/paper/2022/hash/547108084f0c2af39b956f8eadb75d1b-Abstract-Conference.html)             | 2022 |      GNN     |                       Invariant learning                      |                       BACE、BBBP、SIDER、HIV、OGB                       |
+|[SFP](https://arxiv.org/abs/2212.09458)              | 2022 |      GNN     |         Model sparsity, singular, Value decomposition         |                             PLACE365、MSCOCO                            |
+| [GIL](https://openreview.net/forum?id=acKK8MQe2xc)              | 2022 |      GNN     |                       Invariant learning                      |       SP-Motif、MNIST-75sp、Graph-SST2、Open Graph Benchmark (OGB)      |
+| [LiSA](https://arxiv.org/abs/2303.14859)              | 2023 |      GNN     |           Invariant learning, Subgraph augmentation           |                  Spurious-Motif、MUTAG、D&D、MNIST-75sp                 |
+| [MOOD](https://arxiv.org/abs/2206.07632)              | 2022 |      GCN     |             OOD-controlled Reverse-time diffusion             |                    TR3、MNIST superpixels、Graph-SST2                   |
+| [MOG](https://openreview.net/forum?id=qkTEaJ9orc1)              | 2021 |      GCN     |               Improved Langevin, Dynamics method              |                              ZINC250k、QM9                              |
+| [DSIL](https://ieeexplore.ieee.org/document/10044475)              | 2023 |      GNN     |                        Domain invariant                       |                            Drugbank、Twosides                           |
+| [IS-GIB](https://arxiv.org/abs/2306.15902)             | 2023 |      GNN     |                     Information Bottleneck                    |   Cora、Citeseer、Twitch-explicit、Facebook100、Gossipcop、Politifact   |
+| [GOOD-D](https://doi.org/10.1145/3539597.3570446)             | 2023 |      GNN     |             Hierarchical graph, Contrast learning             |                                 TU、OGB                                 |
 
 
 
