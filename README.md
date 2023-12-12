@@ -3,7 +3,7 @@ papers with out-of-distribution generalization are categorized based on machine 
 ## Methods of machine learning
 ### 1.1 Supervised learning
 (1)DIR:  Discovering invariant rationales for graph neural networks  
-   YX Wu, X Wang, A Zhang, X He, TS Chuag  
+      YX Wu, X Wang, A Zhang, X He, TS Chuag  
 ( [paper](https://arxiv.org/abs/2201.12872)  [code](https://github.com/Wuyxin/DIR-GNN) )    
 (2)CIGA:  Learning causally invariant representations for out-of-distribution generalization on graphs  
    Y Chen, Y Zhang, Y Bian, H Yang, MA Kaili, B Xie, T Liu, B Han, J Cheng  
