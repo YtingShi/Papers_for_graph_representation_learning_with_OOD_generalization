@@ -1,5 +1,5 @@
 # Papers_for_graph_representation_learning_with_OOD_generalization
-papers with out-of-distribution generalization are categorized based on machine learning methods and OOD detection tasks
+  
    
 We have summarized OOD generalization models based on graph representation learning in the table below.
   
@@ -30,6 +30,13 @@ We have summarized OOD generalization models based on graph representation learn
 |          DSIL              | 2023 |      GNN     |                        Domain invariant                       |                            Drugbank、Twosides                           |
 |         IS-GIB             | 2023 |      GNN     |                     Information Bottleneck                    |   Cora、Citeseer、Twitch-explicit、Facebook100、Gossipcop、Politifact   |
 |         GOOD-D             | 2023 |      GNN     |             Hierarchical graph, Contrast learning             |                                 TU、OGB                                 |
+
+
+
+papers with out-of-distribution generalization are categorized based on machine learning methods and OOD detection tasks
+
+
+    
 ## Methods of machine learning
 ### 1.1 Supervised learning
 (1)DIR:  Discovering invariant rationales for graph neural networks  
